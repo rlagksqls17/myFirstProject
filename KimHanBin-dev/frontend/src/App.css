@@ -1,0 +1,149 @@
+.join{ 
+    width:350px;
+    height:400px;
+    text-align: center;
+    position:absolute;
+    border:3px solid black;
+    left:50%;
+    top:50%;
+    box-sizing: border-box;
+    margin-left:-175px;
+    margin-top:-150px;
+    font-size: large;
+    background-color: aliceblue;
+}
+
+.join-message{
+    font-size: large;
+    font-weight: bolder;
+}
+
+.login-div{
+    width:350px;
+    height:250px;
+    text-align: center;
+    position:absolute;
+    border:3px solid black;
+    left:50%;
+    top:50%;
+    box-sizing: border-box;
+    margin-left:-175px;
+    margin-top:-125px;
+    font-size: large;
+    font-family: Georgia, "Times New Roman", sans-serif;
+    background-color: aliceblue;   
+}
+
+.main-logo {
+    display:inline;
+    font-family: Georgia, "Times New Roman", sans-serif;
+    font-size: 30pt;
+}
+
+
+.main-button {
+    float:right;
+	top: 0;
+    font-size: 18pt;
+    font-family: Georgia, "Times New Roman", sans-serif;
+    border-radius: 10px;
+	z-index: 999;
+    border: 0;
+	height: 3rem;
+	width: 10%;
+    font-weight: 500;
+}
+
+.user-info {
+    float:left;
+    width:300px;
+    height:200px;
+    margin-left: 200px;
+    margin-top: 30px;
+    border:3px solid black;
+    border-radius: 10px;
+    font-size: 25px;
+    background-color: aliceblue;
+}
+
+.userinfoname-font {
+    text-align: center;
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 45px;
+}
+
+.myself-font {
+    font-size: 15px;
+    margin-top: 40px;
+    text-align: center;
+    vertical-align: bottom;
+    font-size: 18px;
+}
+
+.info-class {
+    float:right;
+    width:1000px;
+    margin-top:10px;
+    margin-right: 200px;
+    overflow:hidden;
+    border:3px solid black;
+    border-radius: 10px;
+    background-color: aliceblue;
+    font-size: 25px;
+}
+
+.info-title {
+    margin-left: 30px;
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+.info-element{
+    margin-left: 30px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.add-info{
+    float:right;
+    display:inline;
+    margin-top: 0px;
+}
+
+.update-info{
+    float:right;
+    display:inline;
+    margin-top:10px;
+}
+
+
+.research{
+    text-align: center;
+}
+
+.research-input{
+    width:600px;
+    height:80px;
+    font-size: 40px;
+}
+
+.research-button{
+    height:70px;
+    font-size: 40px;
+}
+
+.wrapper{
+    text-align: center;
+    display:grid;
+    grid-template-columns: 400px 400px 400px;
+    grid-gap: 10px;
+    margin-left: 200px;
+}
+
+.box{
+    background-color: aliceblue;
+    border-radius: 5px;
+    padding: 20px;
+    font-size: 150%;
+}
