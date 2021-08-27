@@ -1,0 +1,1 @@
+DB_URL = f"mysql+mysqlconnector://rlagksqls17:Cm719bf3131!@localhost:3306/project?charset=utf8" 

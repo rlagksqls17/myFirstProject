@@ -1,15 +1,14 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-yarn.lock
-__pycache__/
-venv/
-database.db
-package.json
-node_modules/
-package-lock.json
-config.py
+# yarn.lock
+# __pycache__/
+# venv/
+# database.db
+# package.json
+# node_modules/
+# package-lock.json
 
 # dependencies
-/node_modules
+# /node_modules
 /.pnp
 .pnp.js
 

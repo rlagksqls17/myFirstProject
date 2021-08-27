@@ -268,14 +268,14 @@ export function PageContent(){
     return(
         <div className='main-menu'>
             <h1 className='main-logo'>Portfolio</h1>
+            <button className='main-button' onClick={handleClickLogout}>
+                Logout
+            </button>
             <button className='main-button' onClick={() => {
                 window.location.href="/main"
             }}>
-                돌아가기
+                Home
             </button>          
-            <button className='main-button' onClick={handleClickLogout}>
-                로그아웃
-            </button>
             <hr/>
             <UserDetail researchid={search.slice(index + 1)}></UserDetail>
         </div>
