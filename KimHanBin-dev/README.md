@@ -52,7 +52,3 @@
 
 
 
-# 현재 상황과 계획
-
-![Imgur](https://imgur.com/vvdPx0i.jpg)
-
